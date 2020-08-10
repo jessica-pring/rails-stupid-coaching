@@ -1,0 +1,22 @@
+// Place all the styles related to the answers controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.card {
+  border-left: solid lightgrey 8px;
+  padding: 8px 16px;
+  margin: 16px;
+  h3, h4 {
+    font-weight: lighter;
+  }
+}
+
+#coach {
+  background-color: lightyellow;
+  h3 {
+    font-weight: bold;
+  }
+}
+
+.link {
+  margin: 24px;
+}
